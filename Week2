@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>New York City Zoos</title>
+    </head>
+    <h1 width=500px >New York City Zoos</h1>
+  <body>
+<figure>
+<hr></hr>
+<h2></h2>
+  <a href="https://www.bronxzoo.com" target="_blank"><img src="Bear.jpg" alt="Brown Bear" title="Bronx Zoo" width="200px"> </a>
+  <a href="https://www.queenszoo.com" target="_blank"><img src="Tiger.jpg" alt="Tiger" title="Queens Zoo" width="200px"> </a>
+  <a href="https://www.centralparkzoo.com" target="_blank"><img src="Seal.jpg" alt="Seal" title="Prospect park Zoo" width="200px"> </a>
+  <a href="https://www.prospectparkzoo.com" target="_blank"><img src="Elephant.jpg" alt="Elephant" title="Central park Zoo" width="200px"> </a>
+  <figcaption>Click on the animals to visit each zoo </figcaption>
+  <hr></hr>
+  </figure>
+   <nav>
+   <a href="#Ticket"> Ticket Price </a>
+   <a>|</a>
+   <a href="#Hour"> Hour of operation</a>
+   <a>|</a>
+   <a href="#Direction"> Direction</a>
+   </nav>
+<dl>
+<dt><b>Learn</b></dt>
+<br/>
+<dd>Whether you're hoping to inspire a budding wildlife lover, or passionate about animals and want to continue your education, the Wildlife Conservation Society has the program for you. We're to offer options for all ages, education levels, and interests. Explore the programs at our five zoos and aquariums throughout NYC and in the field and choose the next step in your conservation journey.</dd>
+<br/>
+<dt><b>Conservation</b></dt>
+<br/>
+<dd>Our Conservationists work in forests, deserts, mountains, plains, and oceans across the globe. We have boots on the ground in some of the planet's most threatened habitats, focused on species facing the greatest dangers, including great apes, big cats, elephants, sharks, and rays, marine mammals, turtles, and many others.</dd>
+<br/>
+<dt><b>OUR TEAM, MORE THAN 4,000 STRONG, WORKS EVERY DAY IN NEARLY 60 COUNTRIES AND ALL THE WORLDS OCEANS TO SAVE WILDLIFE AND WILD PLACES.</b></dt>
+</dl>
+<hr></hr>
+<table border="2" bgcolor="darkgray"
+<tr align="center">
+<th width="200px">Admission - Ticket Prices</th>
+  </tr>
+<table border="2" bgcolor="lightgray"
+<tr align="center">
+</tr>
+<h2 id="Ticket">Tickets</h2>
+<tr> <th width="200px">Park</th> <th width="200px">Child (0-2)</th> <th width="200px">Child (3-12)</th> <th width="200px">Adult 13 & over</th> <th width ="200px">Senior 65 & over</th>
+</tr>
+<tr align="center">
+<th>Bronx Zoo</th> <td>Free</td> <td>$24.95</td> <td>$39.95</td> <td>$34.95</td>
+</tr>
+<tr align="center">
+  <th>Central Park Zoo</th> <td>Free</td> <td>$14.95</td> <td>$19.95</td> <td>$16.95</td>
+</tr>
+<tr align="center">
+  <th>Propsect Park Zoo</th> <td>Free</td> <td>$6.95</td> <td>$9.95</td> <td>$7.95</td>
+</tr>
+<tr align="center">
+  <th>Queens Zoo</th> <td>Free</td> <td>$6.95</td> <td>$9.95</td> <td>$7.95</td>
+</table>
+<hr></hr>
+<dl>
+<h3 id="Hour">Hour of operation</h3>
+<br/>
+<li>Mon-Fri: 10AM - 5PM
+<li>Weekends & Holidays: 10AM - 5:30PM
+</li>
+</dl>
+<hr></hr
+<b><h5 id="Direction"></h5><b>Direction
+<p><b>Bronx Zoo<b></p>
+  <p><a href="https://www.bing.com/maps/directions?rtp=adr.~pos.40.85157012939453_-73.87936401367188_2300+Southern+Blvd%2c+Bronx%2c+NY+10460_Bronx+Zoo_" target="_blank">2300 Southern Blvd, Bronx, NY 10460</a></p>
+  <p><b>Central Park Zoo</b></p>
+  <p><a href="https://www.bing.com/maps/directions?rtp=adr.~pos.40.767826080322266_-73.97176361083984_E+64th+St+and+5th+Ave%2c+New+York%2c+NY+10021_Central+Park+Zoo_(212)+439-6500"target="_blank">64th Street & 5th Avenue, New York, NY 10065</a></p>
+<p><b>Prospect Park Zoo</b></p>
+<p><a href="https://www.bing.com/maps?q=prospect+park+zoo+directions&FORM=AWRE" target="_blank">450 Flatbush Avenue, Brooklyn, NY 1125</a></p>
+<p><b>Queens Zoo</b></p>
+<p><a href="https://www.bing.com/maps/directions?rtp=adr.~pos.40.767826080322266_-73.97176361083984_E+64th+St+and+5th+Ave%2c+New+York%2c+NY+10021_Central+Park+Zoo_(212)+439-6500" target="_blank"> Central Park Zoo</a></p>
+<hr></hr>
+<footer align="center">New York City Zoos @ Created by: Michael Schultz, 2022</footer>
+  </body>
+</html>
